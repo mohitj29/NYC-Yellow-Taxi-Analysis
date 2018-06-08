@@ -145,7 +145,7 @@ The decomposition plot explains the observed series, trend line, the seasonal pa
 ![image](https://user-images.githubusercontent.com/27119316/35784989-e912baf2-09ea-11e8-9ae8-ab2ea8eec256.png)
 
 
-The above box plot represents, the total duration of ride taken by individuals from 2009-2016. As we can infer from the box plot, that most of the rides duration is under 50 minutes. There is lots of outliers present in the box plot, which we can consider as an effect of rush hours.
+The above box plot represents, the total duration of ride taken by individuals from 2009-2016. As we can infer from the box plot, that most of the rides duration is under 50 minutes. There is lots of outliers present in the box plot, which we can consider as an effect of rush hours. 
 
 
 ![image](https://user-images.githubusercontent.com/27119316/35784990-ecf35424-09ea-11e8-9b6e-21b3dc05cd64.png)
